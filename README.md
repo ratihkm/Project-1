@@ -1,6 +1,3 @@
-### Hi, I'm Junior Data Scientist
-### Mkitar Ovsepian / Мхитар Овсепян
-
 Here you'll find projects done by me during "Data Science" course by Yandex.Praktikum. Reviewers' comments are remained.  
 В данном репозитории собраны проекты, сделанные мной на курсе "Специалист по Data Science" от Яндекс.Практикума. Комментарии и замечния ревьюеров сохранены.
 
