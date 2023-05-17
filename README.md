@@ -1,13 +1,9 @@
-### Hi, i'm Data Scientis 
+### Hi, I'm Junior Data Scientist
 
-### Eugene Golovanov / Евгений Голованов
-
-Telegram: t.me/EugeneGolovanov
-
-Email: evsgolovanov@gmail.com
+### Mkitar Ovsepian / Мхитар Овсепян
 
 Here you'll find my projects from the "Data Science Specialist" training program by Yandex.Praktikum
-
+В данном
 В этом репозитории собраны мои проекты из курса "Специалист по Data Science" Яндекс.Практикума
 
 Краткое описание проектов и ссылки:
