@@ -15,5 +15,6 @@ Here you'll find projects done by me during "Data Science" course by Yandex.Prak
 |9.| [Защита персональных данных](https://github.com/ratihkm/Yandex-DS/blob/main/data_security.ipynb) | Алгоритм защиты персональных данных клиента, и модель предсказание факта выплаты страховой премии| `pandas`, `numpy`, `sklearn` |<center>✔️</center>|
 |10.| [Предсказание цены автомобиля](https://github.com/ratihkm/Yandex-DS/blob/main/car_price_suggestion.ipynb) | Модель предсказания цены подержанных автомобилей| `pandas`, `numpy`, `matplotlib`, `scipy`, `sklearn`, `lightgbm`, `xgboost` |<center>✔️</center>| 
 |11.| [Прогнозирование заказов таксти](https://github.com/ratihkm/Yandex-DS/blob/main/taxi_forecast.ipynb) | Модель предсказания заказов такси на следующий час |`pandas`, `numpy`, `statsmodel`, `matplotlib`, `sklearn`, `xgboost`, `catboost`, `lightgbm`|<center>✔️</center>| 
-
+|12.| [Обучение модели классификации комментариев](https://github.com/ratihkm/Yandex-DS/blob/main/nlp_comment_sorting.ipynb) | Определение токсичности комментарии |`Python`, `pandas`, `spacy`, `nltk`, `sklearn`, `lightgbm`|<center>✔️</center>| 
+|13.| [Tелекоммуникации ](https://github.com/ratihkm/Yandex-DS/blob/main/сlient_loss_final_project.ipynb) | : Прогноз оттока клиентов |`Python`, `pandas`, `sklearn`, `lightgbm`, `catboost`|<center>✔️</center>|
 
